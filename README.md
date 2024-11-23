@@ -11,7 +11,9 @@
 * [No Man's Sky](https://store.steampowered.com/app/275850/No_Mans_Sky/) - **~100 hours**
 
 ### A few programming languages I know:
-* Primary Language - **Lua**
-* Secondary Language - **C#**
-* Tertiary Language - **Haxe** 
-* Others - Python, Java, JavaScript, and C/C++
+* Primary Language: **Lua** - (*Roblox*)
+* Secondary Language: **C#** - (*Unity*)
+* Tertiary Language: **Haxe** - (*Friday Night Funkin'*)
+* Quaternary Language: **Java** - (*Minecraft*)
+* Others: **Python, JavaScript, and C/C++** - (*Random Stuff*)
+* Not *really* Languages: **XML, HTML, and JSON**
