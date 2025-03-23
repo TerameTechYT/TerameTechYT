@@ -1,6 +1,6 @@
 # **Hello Coders!**
 > I'm Vivien! A experienced coder that loves making mods and programming random things!<br>
-> I also like playing games (3,100+ hours on [steam](https://steamtime.info/s/76561198187662981))
+> I also like playing games (3,300+ hours on [steam](https://steamtime.info/s/76561198187662981))
 
 ### A few of my favorite games:
 * [Stationeers](https://store.steampowered.com/app/544550/Stationeers/): **1000+ hours**
