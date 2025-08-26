@@ -18,6 +18,6 @@
 * Primary Language: **[Lua](https://lua.org)** - (*[Roblox](https://roblox.com)*)
 * Secondary Language: **[C#](https://dotnet.microsoft.com/)** - (*Unity/Modding*)
 * Tertiary Language: **[Haxe](https://haxe.org/)** - (*[Friday Night Funkin'](https://github.com/FunkinCrew/Funkin)*)
-* Quaternary Language: **Java** - (*[Minecraft](https://minecraft.net)*)
-* Others: **Python, JavaScript, and C/C++, and a bit of Assembly** - (*Random Stuff*)
+* Quaternary Language: **[Java](https://www.java.com/)** - (*[Minecraft](https://minecraft.net)*)
+* Others: **[Python](https://www.python.org), [JavaScript](https://www.javascript.com), [TypeScript](https://www.typescriptlang.org), and [C/C++](https://cplusplus.com), and a bit of Assembly** - (*Random Stuff*)
 * Not *really* Languages: **X(A)ML, HTML, Y(A)ML, and JSON**
