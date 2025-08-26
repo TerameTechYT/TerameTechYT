@@ -15,9 +15,9 @@
 * [Subnautica: Below Zero](https://store.steampowered.com/app/848450/Subnautica_Below_Zero/): **~10 hours**
 
 ### A few programming languages I know:
-* Primary Language: **Lua** - (*Roblox*)
-* Secondary Language: **C#** - (*Unity/Modding*)
-* Tertiary Language: **Haxe** - (*Friday Night Funkin'*)
-* Quaternary Language: **Java** - (*Minecraft*)
+* Primary Language: **[Lua](https://lua.org)** - (*(Roblox)[https://roblox.com]*)
+* Secondary Language: **[C#](https://dotnet.microsoft.com/)** - (*Unity/Modding*)
+* Tertiary Language: **[Haxe](https://haxe.org/)** - (*(Friday Night Funkin')[https://github.com/FunkinCrew/Funkin]*)
+* Quaternary Language: **Java** - (*(Minecraft)[https://minecraft.net]*)
 * Others: **Python, JavaScript, and C/C++, and a bit of Assembly** - (*Random Stuff*)
 * Not *really* Languages: **X(A)ML, HTML, Y(A)ML, and JSON**
