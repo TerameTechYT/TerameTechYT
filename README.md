@@ -16,7 +16,7 @@
 
 ### A few programming languages I know:
 * Primary Language: **[Lua](https://lua.org)** - (*[Roblox](https://roblox.com)*)
-* Secondary Language: **[C#](https://dotnet.microsoft.com/)** - (*Unity/Modding*)
+* Secondary Language: **[C#](https://dotnet.microsoft.com/)** - (*[Unity](https://unity.com)/Modding*)
 * Tertiary Language: **[Haxe](https://haxe.org/)** - (*[Friday Night Funkin'](https://github.com/FunkinCrew/Funkin)*)
 * Quaternary Language: **[Java](https://www.java.com/)** - (*[Minecraft](https://minecraft.net)*)
 * Others: **[Python](https://www.python.org), [JavaScript](https://www.javascript.com), [TypeScript](https://www.typescriptlang.org), and [C/C++](https://cplusplus.com), and a bit of Assembly** - (*Random Stuff*)
