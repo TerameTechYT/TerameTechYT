@@ -19,4 +19,4 @@
 * Tertiary Language: **Haxe** - (*Friday Night Funkin'*)
 * Quaternary Language: **Java** - (*Minecraft*)
 * Others: **Python, JavaScript, and C/C++, and a bit of Assembly** - (*Random Stuff*)
-* Not *really* Languages: **XML, HTML, Y(A)ML, and JSON**
+* Not *really* Languages: **X(A)ML, HTML, Y(A)ML, and JSON**
